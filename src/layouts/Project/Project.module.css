@@ -23,7 +23,7 @@
 }
 
 .sectionInner {
-  --sectionPadding: calc(var(--space5XL) + var(--space3XL));
+  --sectionPadding: calc(var(--space2XL) + var(--spaceXL));
 
   grid-area: 1 / 1;
   display: flex;
@@ -53,17 +53,17 @@
   }
 
   @media (--mediaLaptop) {
-    --sectionPadding: var(--space5XL);
+    --sectionPadding: var(--space2XL);
   }
 
   @media (--mediaTablet) {
-    --sectionPadding: var(--space3XL);
+    --sectionPadding: var(--spaceXL);
 
     height: auto;
   }
 
   @media (--mediaMobile) {
-    --sectionPadding: var(--space2XL);
+    --sectionPadding: var(--spaceXL);
   }
 }
 
@@ -149,21 +149,21 @@
 }
 
 .header {
-  padding-top: calc(var(--space5XL) + var(--space3XL));
+  padding-top: calc(var(--space2XL) + var(--spaceXL));
   padding-bottom: 0;
 
   @media (--mediaLaptop) {
-    padding-top: var(--space5XL);
+    padding-top: var(--space2XL);
     padding-bottom: var(--space2XL);
   }
 
   @media (--mediaTablet) {
-    padding-top: var(--space4XL);
+    padding-top: var(--space2XL);
     padding-bottom: 0;
   }
 
   @media (--mediaMobile) {
-    padding-top: var(--space5XL);
+    padding-top: var(--space2XL);
     padding-bottom: var(--spaceXL);
   }
 }
@@ -180,12 +180,12 @@
   }
 
   @media (--mediaLaptop) {
-    gap: var(--space3XL);
+    gap: var(--space2XL);
   }
 
   @media (max-width: 1200px) {
     grid-template-columns: 1fr 200px;
-    gap: var(--space2XL);
+    gap: var(--spaceXL);
   }
 
   @media (--mediaTablet) {
