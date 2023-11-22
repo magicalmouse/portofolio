@@ -16,7 +16,7 @@ export const navLinks = [
 export const socialLinks = [
   {
     label: 'LinkedIn',
-    url: 'https://www.linkedin.com/in/rafail-zhyhunov-783a6a294',
+    url: 'https://www.linkedin.com/in/Farid-Nasibov-783a6a294',
     icon: 'linkedin',
   },
   {
