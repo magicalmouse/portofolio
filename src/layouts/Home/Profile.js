@@ -19,7 +19,7 @@ const ProfileText = ({ visible, titleId }) => (
       <DecoderText text="Hi there" start={visible} delay={500} />
     </Heading>
     <Text className={styles.description} data-visible={visible} size="l" as="p">
-      I’m Farid Nasibov, currently I live in Baku working as a senior Web Developer. My
+      I’m Rafail Zhyhunov, currently I live in Ukraine working as a senior Web Developer. My
       projects include web development, UX design, UI animations, and icon illustration.
       Being comfortable with code allows me to rapidly prototype and validate experiences.
     </Text>

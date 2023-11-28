@@ -7,7 +7,7 @@ _______________________________________________________________________________
 
 DESIGNER
 
-Farid Nasibov
+Rafail Zhyhunov
 web development
 
 Dev tools:
