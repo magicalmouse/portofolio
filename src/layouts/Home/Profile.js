@@ -1,6 +1,6 @@
-import profileImgLarge from 'assets/profile-large.jpg';
+import profileImgLarge from 'assets/profile-large.png';
 import profileImgPlaceholder from 'assets/profile-placeholder.jpg';
-import profileImg from 'assets/profile.jpg';
+import profileImg from 'assets/profile.png';
 import { Button } from 'components/Button';
 import { DecoderText } from 'components/DecoderText';
 import { Divider } from 'components/Divider';
