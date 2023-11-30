@@ -25,7 +25,7 @@ export const socialLinks = [
   },
   {
     label: 'Github',
-    url: 'https://github.com/BritnessDev',
+    url: 'https://github.com/magicalmouse',
     icon: 'github',
   },
 ];
